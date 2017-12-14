@@ -1,0 +1,40 @@
+.sections{
+  border-style: inset;
+  border-color: red;
+  border-width: medium;
+  background-color: #e6e6e6;
+}
+p{
+  text-align: left;
+  padding-left: 10px;
+  font-family: fantasy;
+}
+h1{
+  color: green;
+  font-family: fantasy;
+}
+body{
+  width: 900px;
+  text-align: center;
+  text-decoration: none;
+}
+#menu {
+  position: fixed;
+  right: 0;
+  top: 30%;
+  width: 100px;
+  margin-right: 200px;
+  background-color: #e6e6e6;
+  padding: 30px;
+  border-radius: 25px;
+}
+h2{
+  font-family: sans-serif;
+}
+body a{
+  text-decoration: none;
+}
+ul li{
+  list-style: none;
+  padding-top: 10px;
+}
